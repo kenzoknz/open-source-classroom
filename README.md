@@ -1,6 +1,6 @@
 # Open Source Classroom
 
-Nền tảng học tập và thực hành đóng góp cho các dự án mã nguồn mở.
+Nền tảng học tập và thực hành đóng góp cho các dự án mã nguồn đóng.
 
 ## Bắt đầu
 
